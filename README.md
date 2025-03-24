@@ -36,7 +36,7 @@ Ensure you have the required libraries installed in your Colab environment:
 
 ### Contribution
 - **Amina Alisheva**: Sentiment analysis and regularization experiments.
-- **Jafar Isbarov & Ariana Kenbayeva**: N-gram model implementation, smoothing techniques, and perplexity evaluation.
+- **Ariana Kenbayeva**: N-gram model implementation, smoothing techniques, and perplexity evaluation.
 
 ### Contact
 For any questions, please reach out to the team members.
